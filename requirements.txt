@@ -1,0 +1,8 @@
+boto3
+pandas
+requests
+ipython
+botocore
+strands-agents
+bedrock-agentcore
+bedrock-agentcore-starter-toolkit
